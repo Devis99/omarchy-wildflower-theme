@@ -1,0 +1,36 @@
+system: "base24"
+name: "Wildflower"
+slug: "wildflower"
+author: "Andras"
+variant: "dark"
+
+palette:
+  # --- canopy, stone, and petal light ---
+  base00: "#252824" # Shadowed Canopy - default background
+  base01: "#343831" # Stump Shade     - raised surface
+  base02: "#484836" # Canopy Moss     - selection
+  base03: "#98998F" # Quiet Stone     - muted text
+  base04: "#AEB0A6" # Pale Stone      - dark foreground
+  base05: "#D3D3CA" # Stone Petal     - default foreground
+  base06: "#E3E1D7" # Soft Petal      - light foreground
+  base07: "#F2F0E7" # Pollen Light    - brightest foreground
+
+  # --- image-led compatibility mapping ---
+  base08: "#BA8078" # Worn Petal      - red / error
+  base09: "#C4AA70" # Dry Pollen      - orange
+  base0A: "#EED079" # Flower Gold     - yellow
+  base0B: "#EED079" # Flower Gold     - green slot intentionally repeats pollen
+  base0C: "#A7B0A1" # Sage Stone      - cyan / foliage support
+  base0D: "#9CA39C" # Canopy Stone    - blue
+  base0E: "#C393C1" # Dusk Lilac      - magenta / support accent
+  base0F: "#8D8171" # Bark            - brown
+
+  # --- deeper shade and bright accents ---
+  base10: "#1E211D" # Deep Canopy     - darker background
+  base11: "#181A18" # Root Shadow     - darkest background
+  base12: "#D49B92" # Faded Petal     - bright red
+  base13: "#F5E1A1" # Gold Glint      - bright yellow
+  base14: "#F5E1A1" # Gold Glint      - bright green slot repeats pollen
+  base15: "#C2CABB" # Frosted Stem    - bright cyan
+  base16: "#BCC1BB" # Moonlit Stone   - bright blue
+  base17: "#D2BDD1" # Lilac Haze      - bright magenta

@@ -1,0 +1,98 @@
+# Wildflower — Specimen at last light: shadowed canopy, stone and flower gold.
+[bar]
+background = "#1E211D"
+background-alpha = 1.0
+text = "#D3D3CA"
+active = "#EED079"
+
+[hyprland]
+active-border = "#EED079 #D2BDD1 90deg"
+active-border-foreground = "rgba(f2f0e7ff)"
+
+[popups]
+background = "#1E211D"
+background-alpha = 1.0
+text = "#D3D3CA"
+border = "hyprland.active-border"
+border-alpha = 1.0
+
+[tooltip]
+background = "#1E211D"
+background-alpha = 0.97
+text = "#D3D3CA"
+border = "hyprland.active-border-foreground"
+border-alpha = 1.0
+
+[notifications]
+background = "#1E211D"
+background-alpha = 1.0
+text = "#D3D3CA"
+border = "hyprland.active-border"
+border-alpha = 1.0
+countdown = "#EED079"
+
+[launcher]
+background = "#181A18"
+background-alpha = 1.0
+text = "#D3D3CA"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#181A18"
+scrim-alpha = 0.68
+selected-background = "#484836"
+selected-background-alpha = 1.0
+selected-text = "#F2F0E7"
+selected-border = "#EED079"
+selected-border-alpha = 1.0
+selected-border-width = "0 0 0 3"
+
+[menu]
+background = "#181A18"
+background-alpha = 1.0
+text = "#D3D3CA"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#181A18"
+scrim-alpha = 0.68
+selected-background = "#484836"
+selected-background-alpha = 1.0
+selected-text = "#F2F0E7"
+selected-border = "hyprland.active-border"
+selected-border-alpha = 1.0
+selected-border-width = "0 0 0 3"
+
+[polkit]
+background = "#1E211D"
+background-alpha = 1.0
+text = "#D3D3CA"
+text-error = "#BA8078"
+border = "hyprland.active-border"
+border-error = "#BA8078"
+border-alpha = 1.0
+scrim = "#181A18"
+scrim-alpha = 0.5
+accent = "#EED079"
+
+[lock]
+background = "#1E211D"
+background-alpha = 0.8
+text = "#D3D3CA"
+placeholder = "#98998F"
+text-error = "#D49B92"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#BA8078"
+border-alpha = 1.0
+selection = "#484836"
+selection-alpha = 1.0
+
+[image-picker]
+scrim = "#1E211D"
+scrim-alpha = 0.5
+text = "#D3D3CA"
+selected-border = "#EED079"
+selected-border-alpha = 1.0
+unselected-border = "#D3D3CA"
+unselected-border-alpha = 0.28

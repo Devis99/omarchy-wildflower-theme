@@ -1,0 +1,26 @@
+:root {
+  --wildflower-bg: #252824;
+  --wildflower-shadow: #1E211D;
+  --wildflower-surface: #343831;
+  --wildflower-text: #D3D3CA;
+  --wildflower-bright: #F2F0E7;
+  --wildflower-pollen: #EED079;
+  --wildflower-lilac: #C393C1;
+  --wildflower-selection: #484836;
+  --wildflower-stone: #98998F;
+  --zen-colors-primary: var(--wildflower-bg) !important;
+  --zen-colors-secondary: var(--wildflower-surface) !important;
+  --zen-colors-tertiary: var(--wildflower-shadow) !important;
+  --zen-colors-border: var(--wildflower-surface) !important;
+  --zen-main-browser-background: var(--wildflower-bg) !important;
+  --lwt-accent-color: var(--wildflower-bg) !important;
+  --lwt-text-color: var(--wildflower-text) !important;
+  --toolbar-bgcolor: var(--wildflower-bg) !important;
+  --toolbar-color: var(--wildflower-text) !important;
+  --toolbar-field-background-color: var(--wildflower-surface) !important;
+  --toolbar-field-color: var(--wildflower-bright) !important;
+  --focus-outline-color: var(--wildflower-pollen) !important;
+}
+#main-window, #navigator-toolbox, #titlebar, #TabsToolbar, #nav-bar, #PersonalToolbar { background-color: var(--wildflower-bg) !important; color: var(--wildflower-text) !important; border-color: var(--wildflower-surface) !important; }
+#urlbar-background, #searchbar { background-color: var(--wildflower-surface) !important; color: var(--wildflower-bright) !important; }
+::selection { color: var(--wildflower-bright); background: var(--wildflower-selection); }

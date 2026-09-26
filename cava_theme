@@ -1,0 +1,11 @@
+[color]
+gradient = 1
+gradient_count = 8
+gradient_color_1 = '#EED079'
+gradient_color_2 = '#C393C1'
+gradient_color_3 = '#D2BDD1'
+gradient_color_4 = '#D3D3CA'
+gradient_color_5 = '#A7B0A1'
+gradient_color_6 = '#9DA58C'
+gradient_color_7 = '#C4AA70'
+gradient_color_8 = '#98998F'

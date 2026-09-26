@@ -1,0 +1,35 @@
+/* Wildflower GTK3/GTK4 — Specimen at last light. */
+@define-color accent_color #EED079;
+@define-color accent_bg_color #EED079;
+@define-color accent_fg_color #252824;
+@define-color destructive_color #BA8078;
+@define-color destructive_bg_color #BA8078;
+@define-color destructive_fg_color #252824;
+@define-color success_color #9DA58C;
+@define-color success_bg_color #9DA58C;
+@define-color success_fg_color #252824;
+@define-color warning_color #EED079;
+@define-color error_color #BA8078;
+@define-color link_color #C393C1;
+@define-color link_visited_color #D2BDD1;
+
+@define-color window_bg_color #252824;
+@define-color window_fg_color #D3D3CA;
+@define-color view_bg_color #1E211D;
+@define-color view_fg_color #D3D3CA;
+@define-color headerbar_bg_color #252824;
+@define-color headerbar_fg_color #F2F0E7;
+@define-color headerbar_border_color #343831;
+@define-color sidebar_bg_color #1E211D;
+@define-color sidebar_fg_color #D3D3CA;
+@define-color card_bg_color #343831;
+@define-color card_fg_color #D3D3CA;
+@define-color dialog_bg_color #252824;
+@define-color dialog_fg_color #D3D3CA;
+@define-color popover_bg_color #343831;
+@define-color popover_fg_color #F2F0E7;
+@define-color borders #343831;
+
+selection { background-color: #484836; color: #F2F0E7; }
+button:hover { background-color: #484836; }
+button:checked, row:selected, .view:selected { background-color: #484836; color: #F2F0E7; }
