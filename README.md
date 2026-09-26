@@ -66,15 +66,6 @@ Vencord's Midnight stylesheet is imported from Refact0r's site, so Vencord/Veskt
 
 ```bash
 omarchy theme install https://github.com/Devis99/omarchy-wildflower-theme.git
-omarchy theme set wildflower
-```
-
-For a local development checkout, run from the repository root. The destination must not already exist:
-
-```bash
-mkdir -p ~/.config/omarchy/themes
-ln -s "$(pwd)" ~/.config/omarchy/themes/wildflower
-omarchy theme set wildflower
 ```
 
 ## Credits and rights
