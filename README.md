@@ -64,13 +64,12 @@ Vencord's Midnight stylesheet is imported from Refact0r's site, so Vencord/Veskt
 
 ## Install
 
-Place this directory at `~/.config/omarchy/themes/wildflower`, then activate it with:
-
 ```bash
+omarchy theme install https://github.com/Devis99/omarchy-wildflower-theme.git
 omarchy theme set wildflower
 ```
 
-For a local development checkout outside the Omarchy theme directory, run from the repository root. The destination must not already exist:
+For a local development checkout, run from the repository root. The destination must not already exist:
 
 ```bash
 mkdir -p ~/.config/omarchy/themes
@@ -80,4 +79,6 @@ omarchy theme set wildflower
 
 ## Credits and rights
 
-The theme code is licensed under MIT; see [`LICENSE`](LICENSE). Wallpaper origins are linked in [`backgrounds/SOURCES.md`](backgrounds/SOURCES.md). The MIT license does not cover those third-party images or the preview screenshot, which also contains the original wallpaper. Confirm each creator's reuse terms before redistributing either.
+Original theme configuration, palette, CSS, and documentation by [Devis99](https://github.com/Devis99). Vencord styling builds on [Midnight by Refact0r](https://github.com/refact0r/midnight-discord).
+
+The theme code is licensed under MIT; see [`LICENSE`](LICENSE). The Wallhaven wallpapers are bundled for personal desktop use, with source-page and uploader credits in [`backgrounds/SOURCES.md`](backgrounds/SOURCES.md). Image rights remain with their original creators and rights holders; Wallhaven uploaders may not be the original artists. The wallpapers and `preview.png` are not covered by MIT. Please do not redistribute them as a standalone image pack.
