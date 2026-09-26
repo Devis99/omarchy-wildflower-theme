@@ -80,4 +80,4 @@ omarchy theme set wildflower
 
 ## Credits and rights
 
-Wallpaper origins are linked in [`backgrounds/SOURCES.md`](backgrounds/SOURCES.md). Each image remains under its creator's terms; confirm reuse permission before redistributing the image files. The preview screenshot also contains the original wallpaper and follows the same restriction. The theme repository currently has no project license file, so no license for its code should be assumed.
+The theme code is licensed under MIT; see [`LICENSE`](LICENSE). Wallpaper origins are linked in [`backgrounds/SOURCES.md`](backgrounds/SOURCES.md). The MIT license does not cover those third-party images or the preview screenshot, which also contains the original wallpaper. Confirm each creator's reuse terms before redistributing either.
