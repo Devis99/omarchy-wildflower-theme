@@ -131,7 +131,7 @@ Cava's eight-stop gradient starts with pollen gold and moves through lilac, ston
 | `vencord.theme.css` | Midnight-based Vencord styling with Wildflower colours |
 | `wildflower-base24.yaml` | Optional 24-slot palette for compatible tools |
 
-App-specific rendering depends on each app and its theme support. The local Hyprland frame width is separate from these portable theme assets. Wallpapers and the preview are bundled for personal desktop use, separately from the MIT-licensed code; their rights remain with their creators and rights holders. See [`backgrounds/SOURCES.md`](backgrounds/SOURCES.md) for uploader and source-page credits.
+App-specific rendering depends on each app and its theme support. The local Hyprland frame width is separate from these portable theme assets. Wallpapers and the preview are bundled for personal desktop use; their rights remain with their creators and rights holders. See [`backgrounds/SOURCES.md`](backgrounds/SOURCES.md) for uploader and source-page credits.
 
 ## Legibility and accessibility limits
 

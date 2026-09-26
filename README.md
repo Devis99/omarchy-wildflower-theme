@@ -81,4 +81,4 @@ omarchy theme set wildflower
 
 Original theme configuration, palette, CSS, and documentation by [Devis99](https://github.com/Devis99). Vencord styling builds on [Midnight by Refact0r](https://github.com/refact0r/midnight-discord).
 
-The theme code is licensed under MIT; see [`LICENSE`](LICENSE). The Wallhaven wallpapers are bundled for personal desktop use, with source-page and uploader credits in [`backgrounds/SOURCES.md`](backgrounds/SOURCES.md). Image rights remain with their original creators and rights holders; Wallhaven uploaders may not be the original artists. The wallpapers and `preview.png` are not covered by MIT. Please do not redistribute them as a standalone image pack.
+The theme code is licensed under MIT; see [`LICENSE`](LICENSE). The Wallhaven wallpapers are bundled for personal desktop use, with source-page and uploader credits in [`backgrounds/SOURCES.md`](backgrounds/SOURCES.md). Image rights remain with their original creators and rights holders; Wallhaven uploaders may not be the original artists.

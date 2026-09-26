@@ -7,4 +7,4 @@
 | `05-gold-flower-dark.jpg` | 4000 × 2248 | [zathu](https://wallhaven.cc/user/zathu) | [4yl2xg](https://wallhaven.cc/w/4yl2xg) |
 | `06-gold-violet-blooms.jpg` | 3980 × 2239 | [halaszzoli85](https://wallhaven.cc/user/halaszzoli85) | [43167v](https://wallhaven.cc/w/43167v) |
 
-Uploader credit does not establish authorship or a reuse license. These images are bundled for personal desktop use; rights remain with their original creators and rights holders. They are separate from the MIT-licensed theme code.
+These images are bundled for personal desktop use; rights remain with their original creators and rights holders.
